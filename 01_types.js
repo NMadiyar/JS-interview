@@ -1,3 +1,12 @@
+/*null
+undefined
+boolean
+number
+string
+symbol
+object
+bigInt*/
+
 //Cтроки и числа
 // console.log(1+"2"); //string 12
 // console.log("3"*"8"); //number
